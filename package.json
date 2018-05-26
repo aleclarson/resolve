@@ -10,7 +10,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "fsx": "aleclarson/fsx#1.2.0"
+    "fsx": "aleclarson/fsx#1.7.1"
   },
   "implicitDependencies": [
     "path"
