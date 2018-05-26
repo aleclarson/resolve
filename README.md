@@ -1,5 +1,5 @@
 
-# resolve v1.0.0
+# resolve v1.0.1
 
 ```coffee
 {resolvePath} = require "resolve"
